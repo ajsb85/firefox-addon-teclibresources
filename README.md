@@ -10,7 +10,7 @@ https://addons.mozilla.org/en-GB/developers/addon/teclib-resources/versions
 * Spanish
 
 ## Support
-Filing a bug at https://github.com/ajsb85/firefox-addon-teclib/issues
+Filing a bug at https://github.com/ajsb85/firefox-addon-teclibresources/issues
 
 ### Preview Screenshots
 ![teclib-png](https://raw.github.com/ajsb85/firefox-addon-teclibresources/master/press/screens/screen1.png "teclib")
