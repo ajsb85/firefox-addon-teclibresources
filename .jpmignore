@@ -1,0 +1,15 @@
+# Ignore .DS_Store files created by mac
+.DS_Store
+
+# Ignore any zip or xpi files
+*.zip
+*.xpi
+
+# Press kit
+press/
+
+# Miscellaneous files
+LICENSE
+CHANGELOG
+CONTRIBUTING.md
+README.md
