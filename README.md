@@ -1,12 +1,13 @@
 ![teclib-logo](https://raw.github.com/ajsb85/firefox-addon-teclibresources/master/press/logo/teclib_logo.png "teclib")
-# Teclib'
 Quick navigation menu through all the resources of Teclib.
 
 ### Download
+https://github.com/ajsb85/firefox-addon-teclibresources/releases/latest <br/>
 https://addons.mozilla.org/en-GB/developers/addon/teclib-resources/versions
 
 ### L10N Support:
 * English
+* French
 * Spanish
 
 ## Support
