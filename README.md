@@ -1,5 +1,5 @@
 ![teclib-logo](https://raw.github.com/ajsb85/firefox-addon-teclibresources/master/press/logo/teclib_logo.png "teclib")<br/>
-Quick navigation menu through all the resources of Teclib.
+Quick navigation menu through all the resources of Teclib'.
 
 ### Download
 https://github.com/ajsb85/firefox-addon-teclibresources/releases/latest <br/>
