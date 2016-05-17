@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+    <Description about="urn:mozilla:install-manifest">
+          <em:id>{6dd38780-c520-48c1-85cf-43094c76ec51}</em:id>
+          <em:type>2</em:type>
+          <em:bootstrap>true</em:bootstrap>
+          <em:unpack>false</em:unpack>
+          <em:version>0.1.2</em:version>
+          <em:name>Teclib&apos;</em:name>
+          <em:description>Quick navigation menu through all the resources of teclib&apos;.</em:description>
+          <em:creator>Alexander J. Salas B.</em:creator>
+          <em:multiprocessCompatible>true</em:multiprocessCompatible>
+
+          <em:targetApplication>
+            <Description>
+              <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+              <em:minVersion>38.0a1</em:minVersion>
+              <em:maxVersion>*</em:maxVersion>
+</Description>
+</em:targetApplication>
+
+          <em:localized>
+            <Description>
+                <em:locale>es</em:locale>
+                <em:name>Teclib&apos;</em:name>
+                <em:description>Menú de navegación rápida a través de todos los recursos de teclib&apos;.</em:description>
+                <em:creator>Alexander J. Salas B.</em:creator>
+
+</Description>
+</em:localized>
+
+
+    </Description>
+
+</RDF>

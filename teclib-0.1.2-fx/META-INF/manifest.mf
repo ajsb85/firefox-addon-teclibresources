@@ -1,0 +1,157 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: V0LO4yc0a80KThM9h60+lQ==
+SHA1-Digest: vX1zY+i/b6Aw29SlF7ZUjJAvE+8=
+
+Name: icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 34+RB/+8J7Pv0XdJPicKJw==
+SHA1-Digest: q8Fn/nF4rABZubbWMaOC4kdnkSo=
+
+Name: icon64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yOF9uaiNJYaschYRm2lqtQ==
+SHA1-Digest: F011PnB/BIjqWF1mLh3fAcTuW98=
+
+Name: bootstrap.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7bXGjs354WXP08z1LJmaUQ==
+SHA1-Digest: hBvzrYsRacNpTOCOH+GOhYBn2mE=
+
+Name: icon64.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wb3Vuisx9p9o72MkzQd+fA==
+SHA1-Digest: /hn1IcKpkU7EKgv3yBil0JeN1LA=
+
+Name: package.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ms+SQS7A+F9wbSTGNI8QYg==
+SHA1-Digest: hd2bFjc4SQlVJda0MI/4ZkGIOBY=
+
+Name: README.md
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Jgsq5Q69xIFG+Lsz/KuQ0Q==
+SHA1-Digest: 7xI9fPpdliu+UJmPSq1tX1/t3fE=
+
+Name: data/icon-16.dev.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pQoyw6GouBKB5DPQBLv8Eg==
+SHA1-Digest: lTRjj3LRCcZTueG+HO38xGQ8Bw4=
+
+Name: data/icon-16.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TopgNw6xtaKoFbamLo2+QA==
+SHA1-Digest: 3SnhKv3Dyx/gjt7Y1rGXaeN7z7M=
+
+Name: data/icon-32.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bTIQcrnikkf8N7tJLSA+Aw==
+SHA1-Digest: JIQRm+Ee4nmVESjDtuQphTHBWNk=
+
+Name: data/icon-64.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9nqEm4q3Ib/2NlGXzrsKJA==
+SHA1-Digest: k29R0ackJ53qyhMdVxRsM5//GOI=
+
+Name: lib/main.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +c2/Dh4ZnTc9SzaWUIlouA==
+SHA1-Digest: RpOfKAyRdz7/xNCl/uVFkmEz5lo=
+
+Name: node_modules/jetpack-panelview/LICENSE
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: f2Z+2V3F70EbxeYXIPsckg==
+SHA1-Digest: HhEUYAma/OjEXdn3ii63q+g37I8=
+
+Name: node_modules/jetpack-panelview/package.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T7vEXWE1HQplbdSpac7WZA==
+SHA1-Digest: RBaVYV/DS/GbB07MPRVBXsH6EnQ=
+
+Name: node_modules/jetpack-panelview/README.md
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LLtoCSjC3LZrzu9CSWvr7Q==
+SHA1-Digest: wSnbNdjg6PA5ZXQMBvL0YvVjUjY=
+
+Name: node_modules/jetpack-panelview/docs/panelview-menu.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gOezu87GlQO0fnQSGO4upA==
+SHA1-Digest: jYmDiIN8upfT2lSopFNmv0gmfLk=
+
+Name: node_modules/jetpack-panelview/docs/panelview-panel.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dO+tWH7n50Cppl2uJY6Qlw==
+SHA1-Digest: /2InVkWICSkpB2FdwtyuI4h86p0=
+
+Name: node_modules/jetpack-panelview/docs/panelview.md
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b4edEkrh9SEHfbmAYVZrAg==
+SHA1-Digest: rGbA7TN5hV8JygivBKrLX4Iw7kA=
+
+Name: node_modules/jetpack-panelview/lib/panelview.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hoFhP8t5foTolPKArTrHQw==
+SHA1-Digest: 3OzvHtwTlWjfmXcbTh6uq6z8Hz4=
+
+Name: node_modules/jetpack-panelview/lib/panelview/contract.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JODQ6zgub9I3lfVPjqLKYA==
+SHA1-Digest: VPjKgJctJLGYsC+Baxf5HjgFRQI=
+
+Name: node_modules/jetpack-panelview/lib/panelview/mainmenu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sN81joeObraPjRcuoIxCgQ==
+SHA1-Digest: 7Kn6OE8fP1Qn+QGEUz3FU3mk/gc=
+
+Name: node_modules/jetpack-panelview/lib/panelview/utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3x4pRkorLGJ/taH/aZtc4w==
+SHA1-Digest: zuAPGO/T/R0wRQ/Yl3Iq+/JrMGY=
+
+Name: node_modules/jetpack-panelview/lib/panelview/workaround.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l1I+q2uyDGWy8+SDh49s3w==
+SHA1-Digest: 6xPMfr8r9TZkjtNLC+ER1a2hCKM=
+
+Name: node_modules/jetpack-panelview/test/test-icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DKTmaK9X25hkZcr8u61/xw==
+SHA1-Digest: uOGZqv4mUd+rbw925AJnmB4LoRY=
+
+Name: node_modules/jetpack-panelview/test/test-mainmenu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5sODaWVaxxA/4uEoh+7UUw==
+SHA1-Digest: hFHwnbMy+OBO5JLamOYYwMtuL4Y=
+
+Name: node_modules/jetpack-panelview/test/test-panelview.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZYr24YIiDIpRaMu1fllkGg==
+SHA1-Digest: fD3a7RFQXzIslGamfJM396wRsaY=
+
+Name: node_modules/jetpack-panelview/test/event/helpers.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F4DbrVSBL5KvPrYY/asPBg==
+SHA1-Digest: Js/wAkGRQao3hDIZoWFRa9svXnM=
+
+Name: press/amo/screen/screenshot1.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ehRJJm2CgytI6LoMvhqlRA==
+SHA1-Digest: C+2eycp25V/EN0Hk/JnEiqJJQoI=
+
+Name: press/amo/screen/screenshot2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A7czKrV953goeARwNu7ujw==
+SHA1-Digest: tR0ArN3AGcdJO8vNhSPl0dbQrcQ=
+
+Name: press/amo/screen/screenshot3.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a9cR5Agdub+0XHXHdJtCjg==
+SHA1-Digest: CGGCtZwmLCppU+oTAqqoBTaXTjA=
+
+Name: LICENSE
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l0HDRu71YTEWPhO52xJBsw==
+SHA1-Digest: 0iFXq8D8C0rpY4DAlSjiPPdykKk=
+

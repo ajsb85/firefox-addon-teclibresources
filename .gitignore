@@ -1,3 +1,9 @@
+# Mozilla
+*.xpi
+*.jar
+*.zip
+*.mar
+
 # Logs
 logs
 *.log
