@@ -1,0 +1,59 @@
+{
+    "resources": [
+        {
+            "id": 1,
+            "name": "Email",
+            "url": "https://mail.teclib.com/"
+        },
+        {
+            "id": 2,
+            "name": "Jabber",
+            "url": "https://jabber.teclib.com/"
+        },
+        {
+            "id": 3,
+            "name": "Wiki",
+            "url": "http://wiki.teclib.infra/xwiki/bin/view/Main/WebHome"
+        },
+        {
+            "id": 4,
+            "name": "SGD",
+            "url": "https://sgdgateway.teclib.com/"
+        },
+        {
+            "id": 5,
+            "name": "GED",
+            "url": "http://ged.teclib.infra/"
+        },
+        {
+            "id": 6,
+            "name": "ODOO",
+            "url": "http://odoo.teclib.infra/"
+        },
+        {
+            "id": 7,
+            "name": "ERP",
+            "url": "http://erp.teclib.infra/"
+        },
+        {
+            "id": 8,
+            "name": "Support",
+            "url": "https://share.teclib.net/"
+        },
+        {
+            "id": 9,
+            "name": "Etherpad",
+            "url": "http://etherpad.prod.teclib.infra:9001/"
+        },
+        {
+            "id": 10,
+            "name": "Ethercalc",
+            "url": "http://ethercalc.qualif.teclib.infra/"
+        },
+        {
+            "id": 11,
+            "name": "Jitsi",
+            "url": "https://visio.teclib.com/"
+        }
+    ]
+}
