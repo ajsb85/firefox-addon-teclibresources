@@ -2,6 +2,8 @@
 Quick navigation menu through all the resources of Teclib'.
 
 ### Download
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ajsb85/firefox-addon-teclibresources.svg)](https://greenkeeper.io/)
 https://github.com/ajsb85/firefox-addon-teclibresources/releases/latest <br/>
 https://addons.mozilla.org/en-GB/developers/addon/teclib-resources/versions
 
